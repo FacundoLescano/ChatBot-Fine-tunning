@@ -1,6 +1,7 @@
 # Chatbot con OpenAI y Django
 
 Sistema de chatbot conversacional desarrollado con Django y OpenAI que mantiene el contexto de conversación completo.
+<img width="1402" height="902" alt="image" src="https://github.com/user-attachments/assets/3941b00d-a8f0-4ff0-a1f1-c01125bf2854" />
 
 ## Descripción
 
