@@ -168,6 +168,9 @@ client.chat.completions.create(
 - Proceso: Fine-tuning realizado mediante OpenAI API Fine-tuning
 - El modelo fue entrenado con datos específicos del dominio para mejorar las respuestas en casos de uso particulares
 
+![Uploading WhatsApp Image 2026-01-01 at 04.27.38.jpeg…]()
+
+
 ### Gestión de Sesiones
 
 - Django maneja automáticamente las sesiones mediante cookies
