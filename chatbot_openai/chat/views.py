@@ -53,7 +53,7 @@ class HolaMundoView(View):
 
         # Obtener respuesta del modelo con todo el contexto
         response = client.chat.completions.create(
-            model="ft:gpt-4.1-nano-2025-04-14:facufunctions:pruebatienda:CshSJDGz",
+            model="",
             messages=messages_for_api
         )
 
@@ -63,7 +63,7 @@ class HolaMundoView(View):
             content=response.choices[0].message.content,
             is_user=False,
             metadata={
-                "model": "ft:gpt-4.1-nano-2025-04-14:facufunctions:pruebatienda:CshSJDGz"
+                "model": ""
             }
         )
 

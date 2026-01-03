@@ -156,14 +156,13 @@ http://localhost:8000/
 **Endpoint usado:**
 ```python
 client.chat.completions.create(
-    model="ft:gpt-4.1-nano-2025-04-14:facufunctions:pruebatienda:CshSJDGz",
+    model="",
     messages=messages_for_api
 )
 ```
 
 **Modelo:**
 - Fine-tuned GPT-4.1 Nano personalizado
-- ID: `ft:gpt-4.1-nano-2025-04-14:facufunctions:pruebatienda:CshSJDGz`
 - Basado en: GPT-4o Nano
 - Proceso: Fine-tuning realizado mediante OpenAI API Fine-tuning
 - El modelo fue entrenado con datos específicos del dominio para mejorar las respuestas en casos de uso particulares
