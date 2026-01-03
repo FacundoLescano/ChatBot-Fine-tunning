@@ -62,8 +62,8 @@ coverage.xml
 .pytest_cache/
 
 # Migraciones locales (opcional - comentar si quieres versionar migraciones)
-# */migrations/*.py
-# !*/migrations/__init__.py
+*/migrations/*.py
+!*/migrations/__init__.py
 
 # Static files recolectados
 /static/
