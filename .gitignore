@@ -1,0 +1,83 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+
+# Entorno virtual
+chatenv/
+venv/
+env/
+ENV/
+.venv
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Configuración local
+*.local
+
+# Base de datos
+*.sqlite
+*.sqlite3
+*.db
+
+# Archivos de secrets y credenciales
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# Coverage y testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Migraciones locales (opcional - comentar si quieres versionar migraciones)
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# Static files recolectados
+/static/
+
+# Backups
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+
+.claude/
