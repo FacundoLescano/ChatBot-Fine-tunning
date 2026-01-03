@@ -167,9 +167,8 @@ client.chat.completions.create(
 - Basado en: GPT-4o Nano
 - Proceso: Fine-tuning realizado mediante OpenAI API Fine-tuning
 - El modelo fue entrenado con datos específicos del dominio para mejorar las respuestas en casos de uso particulares
-
-![Uploading WhatsApp Image 2026-01-01 at 04.27.38.jpeg…]()
-
+- 
+<img width="1603" height="547" alt="image" src="https://github.com/user-attachments/assets/a8fdd12f-4467-4066-bff9-284715a9ad0e" />
 
 ### Gestión de Sesiones
 
